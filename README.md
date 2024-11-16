@@ -6,8 +6,6 @@ I’m on a mission: from dream to deployment, from beginner to expert, every cha
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=joseomolon&color=blue)
-
 ## 💻 Tech Stack:
 I work with modern, powerful tools to bring ideas to life. Here’s my weaponry:
 
@@ -65,6 +63,7 @@ Want to join the journey or collaborate on something awesome? Reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmomolon@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=joseomolon&color=blue)
 
 ---
 
