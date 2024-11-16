@@ -6,6 +6,8 @@ I’m on a mission: from dream to deployment, from beginner to expert, every cha
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=joseomolon&color=blue)
+
 ## 💻 Tech Stack:
 I work with modern, powerful tools to bring ideas to life. Here’s my weaponry:
 
