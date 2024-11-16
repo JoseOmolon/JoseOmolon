@@ -67,4 +67,4 @@ Want to join the journey or collaborate on something awesome? Reach out!
 ---
 
 ## ⚡ GitHub Stats:
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseomolon&show_icons=true&theme=radical)
