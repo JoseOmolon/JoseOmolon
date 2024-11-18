@@ -58,7 +58,7 @@ I envision myself contributing to tech that makes the world better, smarter, and
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=joseomolon&color=blue)
+
 
 ## 📫 Let’s Connect!
 Want to join the journey or collaborate on something awesome? Reach out!
@@ -71,3 +71,5 @@ Want to join the journey or collaborate on something awesome? Reach out!
 
 ## ⚡ GitHub Stats:
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseomolon&show_icons=true&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=joseomolon&color=blue)
